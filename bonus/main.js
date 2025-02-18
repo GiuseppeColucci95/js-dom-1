@@ -22,6 +22,6 @@ btnEl.addEventListener('click', function () {
     imgEl.src = "./assets/img/white_lamp.png";
     btnEl.innerText = "Accendi";
     console.log(imgEl);
-    console.log(btnEl).innerText;
+    console.log(btnEl.innerText);
   }
 });
